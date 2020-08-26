@@ -13,5 +13,6 @@ This repository is structured as follows:
 2. The example of how this guideline is applied to create a DT is provided for a [Gearbox demonstrator](Documents/Digital%20twin%20practice-v1.pdf)
 3. Using the developed guideline, please refer to the [DT helicopter computer system](https://youtu.be/uNeu-z_tKP4) and the [DT of gearbox demonstrator](https://youtu.be/TLs_HygzAL8) to see how the Desktop-based DT and AR-based DT look like
 4. For further development in the adaptive DT data framework (e.g. to sustain the change of DT when its physical counterpart evolves), please refer to this [article](Publications/A%20design%20framework%20for%20adaptive%20digital%20twin.pdf)
+5. Further development in [AR-related visualisation for remote maintenance](Publications/structured%20authoring%20for%20AR-based%20communication.pdf)
 
 
